@@ -177,13 +177,13 @@ Publish the website in the given URL.
 
 ![output](./static/img/exp6.jpg)
 
-![output](./static/img/exp 6.jpg)
+![output](./static/img/exp  6.jpg)
 
 
 
 ## CODE VALIDATION REPORT:
 
-![output](./static/img/validat.jpg)
+![output](./static/img/validator.jpg)
 
 ![output](./static/img/validator1.jpg)
 
